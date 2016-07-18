@@ -95,6 +95,5 @@ if __name__ == '__main__':
 	f=open('Security_Advisory.txt','a')
 	for x in info:
 		print x
-		f.write(str(x)+'\n')
-		
+		f.write(str(x)+'\n')		
 	f.close()	

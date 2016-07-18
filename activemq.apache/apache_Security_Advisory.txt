@@ -1,0 +1,20 @@
+{'time': '2015-11-06', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.1.Upgrade to Apache ActiveMQ 5.11.0', 'id': 'CVE-2014-3576', 'name': 'Remote Unauthenticated Shutdown of Broker (DoS)'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ Apollo 1.0 - 1.7.Upgrade to Apache ActiveMQ Apollo 1.7.1', 'id': 'CVE-2014-3579', 'name': 'Apache ActiveMQ Apollo XXE with XPath selectors'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-3600', 'name': 'Apache ActiveMQ XXE with XPath selectors'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-3612', 'name': 'ActiveMQ JAAS: LDAPLoginModule allows empty password authentication and Wildcard Interpretation'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-8110', 'name': 'ActiveMQ Web Console - Cross-Site Scripting'}
+{'time': '2015-08-25', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.11.1.', 'id': '', 'name': ''}
+{'time': '2015-12-08', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.12.1.', 'id': '', 'name': ''}
+{'time': '2016-03-10', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.1.Upgrade to Apache ActiveMQ 5.13.2', 'id': 'CVE-2016-0734', 'name': 'ActiveMQ Web Console - Clickjacking'}
+{'time': '2016-03-17', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.0.Upgrade to Apache ActiveMQ 5.11.4, 5.12.3, or 5.13.1', 'id': 'CVE-2016-0782', 'name': 'ActiveMQ Web Console - Cross-Site Scripting'}
+{'time': '2016-05-23', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.2.', 'id': '', 'name': ''}
+{'time': '2015-11-06', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.1.Upgrade to Apache ActiveMQ 5.11.0', 'id': 'CVE-2014-3576', 'name': 'Remote Unauthenticated Shutdown of Broker (DoS)'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ Apollo 1.0 - 1.7.Upgrade to Apache ActiveMQ Apollo 1.7.1', 'id': 'CVE-2014-3579', 'name': 'Apache ActiveMQ Apollo XXE with XPath selectors'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-3600', 'name': 'Apache ActiveMQ XXE with XPath selectors'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-3612', 'name': 'ActiveMQ JAAS: LDAPLoginModule allows empty password authentication and Wildcard Interpretation'}
+{'time': '2015-02-05', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.10.0.Upgrade to Apache ActiveMQ 5.10.1 or 5.11.0', 'id': 'CVE-2014-8110', 'name': 'ActiveMQ Web Console - Cross-Site Scripting'}
+{'time': '2015-08-25', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.11.1.', 'id': '', 'name': ''}
+{'time': '2015-12-08', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.12.1.', 'id': '', 'name': ''}
+{'time': '2016-03-10', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.1.Upgrade to Apache ActiveMQ 5.13.2', 'id': 'CVE-2016-0734', 'name': 'ActiveMQ Web Console - Clickjacking'}
+{'time': '2016-03-17', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.0.Upgrade to Apache ActiveMQ 5.11.4, 5.12.3, or 5.13.1', 'id': 'CVE-2016-0782', 'name': 'ActiveMQ Web Console - Cross-Site Scripting'}
+{'time': '2016-05-23', 'level': 'Important', 'influence': 'Apache ActiveMQ 5.0.0 - 5.13.2.', 'id': '', 'name': ''}

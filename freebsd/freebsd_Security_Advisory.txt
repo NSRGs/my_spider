@@ -1,0 +1,24 @@
+{'time': '2016-06-04', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-4957, CVE-2016-4953, CVE-2016-4954, CVE-2016-4955', 'name': 'Multiple vulnerabilities of ntp'}
+{'time': '2016-05-31', 'level': '', 'influence': 'FreeBSD 9.3', 'id': 'CVE-2013-0211', 'name': 'Buffer overflow in libarchive(3)'}
+{'time': '2016-05-31', 'level': '', 'influence': 'All supported versions of FreeBSD', 'id': 'CVE-2015-2304', 'name': 'Directory traversal in cpio(1)'}
+{'time': '2016-05-31', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': '', 'name': 'Kernel stack disclosure in 4.3BSD compatibility layer'}
+{'time': '2016-05-31', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': '', 'name': 'Kernel stack disclosure in Linux compatibility layer'}
+{'time': '2016-05-17', 'level': '', 'influence': 'FreeBSD 10.x', 'id': 'CVE-2016-1887', 'name': 'Incorrect argument handling in sendmsg(2)'}
+{'time': '2016-05-17', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1886', 'name': 'Buffer overflow in keyboard driver'}
+{'time': '2016-05-04', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-2105, CVE-2016-2106, CVE-2016-2107, CVE-2016-2109,', 'name': 'Multiple OpenSSL vulnerabilities'}
+{'time': '2016-04-29', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1547, CVE-2016-1548, CVE-2016-1549, CVE-2016-1550,', 'name': 'Multiple vulnerabilities of ntp'}
+{'time': '2016-03-16', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1885', 'name': 'Incorrect argument validation in sysarch(2)'}
+{'time': '2016-03-16', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-3115', 'name': 'OpenSSH xauth(1) command injection'}
+{'time': '2016-03-10', 'level': '', 'influence': 'FreeBSD 9.x', 'id': 'CVE-2016-1285, CVE-2016-1286', 'name': 'Multiple BIND vulnerabilities'}
+{'time': '2016-03-10', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-0702, CVE-2016-0703, CVE-2016-0704, CVE-2016-0705', 'name': 'Multiple OpenSSL vulnerabilities'}
+{'time': '2016-01-30', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2015-3197', 'name': 'OpenSSL SSLv2 ciphersuite downgrade vulnerability'}
+{'time': '2016-01-27', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1883', 'name': 'Linux compatibility layer issetugid(2) system call'}
+{'time': '2016-01-27', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2015-7973, CVE-2015-7974, CVE-2015-7975, CVE-2015-7976,', 'name': 'Multiple vulnerabilities of ntp'}
+{'time': '2016-01-27', 'level': '', 'influence': 'FreeBSD 9.x', 'id': 'CVE-2015-8704', 'name': 'BIND remote denial of service vulnerability'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-0777', 'name': 'OpenSSH client information leak'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2015-5677', 'name': 'Insecure default snmpd.config permissions'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1882', 'name': 'TCP MD5 signature denial of service'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD', 'id': 'CVE-2016-1881', 'name': 'Linux compatibility layer setgroups(2) system call'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2016-1880', 'name': 'Linux compatibility layer incorrect futex handling'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD.', 'id': 'CVE-2015-5300', 'name': 'ntp panic threshold bypass vulnerability'}
+{'time': '2016-01-14', 'level': '', 'influence': 'All supported versions of FreeBSD', 'id': 'CVE-2016-1879', 'name': 'SCTP ICMPv6 error message vulnerability'}

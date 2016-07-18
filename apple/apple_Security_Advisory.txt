@@ -1,0 +1,274 @@
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1717'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1719'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1720'], 'name': 'IOKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1721'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2015-7995'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1722'], 'name': 'syslog'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-25-1 tvOS 9.1.1', 'id': ['CVE-2016-1724', 'CVE-2016-1727'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-3 Safari 9.0.3', 'id': ['CVE-2016-1723', 'CVE-2016-1724', 'CVE-2016-1725', 'CVE-2016-1726', 'CVE-2016-1727'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-3 Safari 9.0.3', 'id': ['CVE-2016-1728'], 'name': 'WebKit CSS'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1716'], 'name': 'AppleGraphicsPowerManagement'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1717'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1718'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1719'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1720'], 'name': 'IOKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1721'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2015-7995'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1729'], 'name': 'OSA Scripts'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-2 OS X El Capitan 10.11.3 and Security Update\t2016-001', 'id': ['CVE-2016-1722'], 'name': 'syslog'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1717'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1719'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1720'], 'name': 'IOKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1721'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2015-7995'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1722'], 'name': 'syslog'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1723', 'CVE-2016-1724', 'CVE-2016-1725', 'CVE-2016-1726', 'CVE-2016-1727'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1728'], 'name': 'WebKit CSS'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-19-1 iOS 9.2.1', 'id': ['CVE-2016-1730'], 'name': 'WebSheet'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-07-1 QuickTime 7.7.9', 'id': ['CVE-2015-7085', 'CVE-2015-7086', 'CVE-2015-7087', 'CVE-2015-7088', 'CVE-2015-7089', 'CVE-2015-7090', 'CVE-2015-7091', 'CVE-2015-7092', 'CVE-2015-7117'], 'name': 'QuickTime'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-01-07-1 QuickTime 7.7.9', 'id': ['CVE-2015-7085', 'CVE-2015-7086', 'CVE-2015-7087', 'CVE-2015-7088', 'CVE-2015-7089', 'CVE-2015-7090', 'CVE-2015-7091', 'CVE-2015-7092', 'CVE-2015-7117'], 'name': 'QuickTime'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3778'], 'name': 'bootp'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3782'], 'name': 'CloudKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3793'], 'name': 'CFPreferences'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3806'], 'name': 'Code Signing'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3803'], 'name': 'Code Signing'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3802', 'CVE-2015-3805'], 'name': 'Code Signing'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5777', 'CVE-2015-5778'], 'name': 'CoreMedia Playback'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5755', 'CVE-2015-5761'], 'name': 'CoreText'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3800'], 'name': 'DiskImages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3804', 'CVE-2015-5756', 'CVE-2015-5775'], 'name': 'FontParser'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5758'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5781'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5782'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3776'], 'name': 'IOKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5774'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3766'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3768'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3796', 'CVE-2015-3797', 'CVE-2015-3798'], 'name': 'Libc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5776'], 'name': 'Libinfo'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5757'], 'name': 'libpthread'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3807'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2012-6685', 'CVE-2014-0191', 'CVE-2014-3660'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3795'], 'name': 'libxpc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-7995'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3759'], 'name': 'Location Framework'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3784'], 'name': 'Office Viewer'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5773'], 'name': 'QL Office'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-5749'], 'name': 'Sandbox_profiles'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3730', 'CVE-2015-3731', 'CVE-2015-3732', 'CVE-2015-3733', 'CVE-2015-3734', 'CVE-2015-3735', 'CVE-2015-3736', 'CVE-2015-3737', 'CVE-2015-3738', 'CVE-2015-3739', 'CVE-2015-3740', 'CVE-2015-3741', 'CVE-2015-3742', 'CVE-2015-3743', 'CVE-2015-3744', 'CVE-2015-3745', 'CVE-2015-3746', 'CVE-2015-3747', 'CVE-2015-3748', 'CVE-2015-3749'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3753'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3750'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3752'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-02-25-1 Apple TV 7.2.1', 'id': ['CVE-2015-3751'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-31-1 iBooks Author 2.4.1', 'id': ['CVE-2016-1789'], 'name': 'iBooks Author'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-7 OS X Server 5.1', 'id': ['CVE-2016-1774'], 'name': 'Server App'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-7 OS X Server 5.1', 'id': ['CVE-2016-1777'], 'name': 'Web Server'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-7 OS X Server 5.1', 'id': ['CVE-2016-1776'], 'name': 'Web Server'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-7 OS X Server 5.1', 'id': ['CVE-2016-1787'], 'name': 'Wiki Server'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2015-8126', 'CVE-2015-8472'], 'name': 'apache_mod_php'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1733'], 'name': 'AppleRAID'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1732'], 'name': 'AppleRAID'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1734'], 'name': 'AppleUSBNetworking'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1735', 'CVE-2016-1736'], 'name': 'Bluetooth'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1737'], 'name': 'Carbon'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1738'], 'name': 'dyld'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1740'], 'name': 'FontParser'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': [], 'name': 'HTTPProtocol'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1743', 'CVE-2016-1744'], 'name': 'Intel Graphics Driver'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1745'], 'name': 'IOFireWireFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1746', 'CVE-2016-1747'], 'name': 'IOGraphics'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1748'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1749'], 'name': 'IOUSBFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1750'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1757'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1756'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1754', 'CVE-2016-1755', 'CVE-2016-1759'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1758'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1753'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1752'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2015-5312', 'CVE-2015-7500', 'CVE-2015-7942', 'CVE-2015-8035', 'CVE-2015-8242', 'CVE-2016-1761'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1788'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1764'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1741'], 'name': 'NVIDIA Graphics Drivers'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-0777', 'CVE-2016-0778'], 'name': 'OpenSSH'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2015-5333', 'CVE-2015-5334'], 'name': 'OpenSSH'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': [], 'name': 'OpenSSL'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2015-8126', 'CVE-2015-8472'], 'name': 'Python'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1767', 'CVE-2016-1768'], 'name': 'QuickTime'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1769'], 'name': 'QuickTime'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1770'], 'name': 'Reminders'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': [], 'name': 'Ruby'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1773'], 'name': 'Security'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1950'], 'name': 'Security'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2015-8126'], 'name': 'Tcl'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-1775'], 'name': 'TrueTypeScaler'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-5 OS X El Capitan 10.11.4 and Security Update\t2016-002', 'id': ['CVE-2016-0801', 'CVE-2016-0802'], 'name': 'Wi-Fi'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-4 Xcode 7.3', 'id': ['CVE-2016-1765'], 'name': 'otool'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-4 Xcode 7.3', 'id': ['CVE-2015-3184', 'CVE-2015-3187'], 'name': 'subversion'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1740'], 'name': 'FontParser'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': [], 'name': 'HTTPProtocol'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1748'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1750'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1753'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1751'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1754', 'CVE-2016-1755'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1752'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2015-5312', 'CVE-2015-7500', 'CVE-2015-7942', 'CVE-2015-8035', 'CVE-2015-8242'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1950'], 'name': 'Security'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1775'], 'name': 'TrueTypeScaler'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1783'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-1784'], 'name': 'WebKit History'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-3 tvOS 9.2', 'id': ['CVE-2016-0801', 'CVE-2016-0802'], 'name': 'Wi-Fi'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1717'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1740'], 'name': 'FontParser'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': [], 'name': 'HTTPProtocol'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1719'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1748'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1720', 'CVE-2016-1721', 'CVE-2016-1754', 'CVE-2016-1755'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1750'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1753'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1751'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1752'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2015-5312', 'CVE-2015-7500', 'CVE-2015-7942', 'CVE-2015-8035', 'CVE-2015-8242', 'CVE-2016-1761'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2015-7995'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1788'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1950'], 'name': 'Security'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1722'], 'name': 'syslog'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1775'], 'name': 'TrueTypeScaler'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-1723', 'CVE-2016-1724', 'CVE-2016-1725', 'CVE-2016-1726', 'CVE-2016-1727'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-2 watchOS 2.2', 'id': ['CVE-2016-0801', 'CVE-2016-0802'], 'name': 'Wi-Fi'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1734'], 'name': 'AppleUSBNetworking'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1740'], 'name': 'FontParser'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': [], 'name': 'HTTPProtocol'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1748'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1752'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1750'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1753'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1751'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1757'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1756'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1754', 'CVE-2016-1755'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1758'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1760'], 'name': 'LaunchServices'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2015-5312', 'CVE-2015-7500', 'CVE-2015-7942', 'CVE-2015-8035', 'CVE-2015-8242', 'CVE-2016-1761'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1763'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1788'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1766'], 'name': 'Profiles'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1950'], 'name': 'Security'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1775'], 'name': 'TrueTypeScaler'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1778', 'CVE-2016-1783'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1781'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1780'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1779'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1782'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1784'], 'name': 'WebKit History'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1786'], 'name': 'WebKit Page Loading'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-1785'], 'name': 'WebKit Page Loading'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-03-21-1 iOS 9.3', 'id': ['CVE-2016-0801', 'CVE-2016-0802'], 'name': 'Wi-Fi'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-6 iTunes 12.4', 'id': ['CVE-2016-1742'], 'name': 'iTunes'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-5 Safari 9.1.1', 'id': ['CVE-2016-1849'], 'name': 'Safari'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-5 Safari 9.1.1', 'id': ['CVE-2016-1858'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-5 Safari 9.1.1', 'id': ['CVE-2016-1854', 'CVE-2016-1855', 'CVE-2016-1856', 'CVE-2016-1857'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-5 Safari 9.1.1', 'id': ['CVE-2016-1859'], 'name': 'WebKit Canvas'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1792'], 'name': 'AMD'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1791'], 'name': 'AMD'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': [], 'name': 'apache_mod_php'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1793', 'CVE-2016-1794'], 'name': 'AppleGraphicsControl'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1795'], 'name': 'AppleGraphicsPowerManagement'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1796'], 'name': 'ATS'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1797'], 'name': 'ATS'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1798'], 'name': 'Audio'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1799'], 'name': 'Audio'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1800'], 'name': 'Captive Network Assistant'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1801'], 'name': 'CFNetwork Proxies'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1802'], 'name': 'CommonCrypto'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1803'], 'name': 'CoreCapture'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1805'], 'name': 'CoreStorage'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1806'], 'name': 'Crash Reporter'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1807'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1808'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1809'], 'name': 'Disk Utility'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1810'], 'name': 'Graphics Drivers'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1811'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1812'], 'name': 'Intel Graphics Driver'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1814'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1815', 'CVE-2016-1817', 'CVE-2016-1818', 'CVE-2016-1819'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1813', 'CVE-2016-1816'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1820'], 'name': 'IOAudioFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1821'], 'name': 'IOAudioFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1822'], 'name': 'IOFireWireFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1823', 'CVE-2016-1824'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1825'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1827', 'CVE-2016-1828', 'CVE-2016-1829', 'CVE-2016-1830', 'CVE-2016-1831'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1826'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1832'], 'name': 'libc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1833', 'CVE-2016-1834', 'CVE-2016-1835', 'CVE-2016-1836', 'CVE-2016-1837', 'CVE-2016-1838', 'CVE-2016-1839', 'CVE-2016-1840'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1841'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1842'], 'name': 'MapKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1844'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1843'], 'name': 'Messages'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1804'], 'name': 'Multi-Touch'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1846'], 'name': 'NVIDIA Graphics Drivers'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1847'], 'name': 'OpenGL'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1848'], 'name': 'QuickTime'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1850'], 'name': 'SceneKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1851'], 'name': 'Screen Lock'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-4 OS X El Capitan 10.11.5 and Security Update\t2016-003', 'id': ['CVE-2016-1853'], 'name': 'Tcl'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1802'], 'name': 'CommonCrypto'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1803'], 'name': 'CoreCapture'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1807'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1808'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1811'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1817', 'CVE-2016-1818'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1819'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1813'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1823', 'CVE-2016-1824'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1827', 'CVE-2016-1828', 'CVE-2016-1829', 'CVE-2016-1830'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1832'], 'name': 'libc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1833', 'CVE-2016-1834', 'CVE-2016-1836', 'CVE-2016-1837', 'CVE-2016-1838', 'CVE-2016-1839', 'CVE-2016-1840'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1841'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1842'], 'name': 'MapKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-3 watchOS 2.2.1', 'id': ['CVE-2016-1847'], 'name': 'OpenGL'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1790'], 'name': 'Accessibility'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1801'], 'name': 'CFNetwork Proxies'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1802'], 'name': 'CommonCrypto'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1803'], 'name': 'CoreCapture'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1807'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1808'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1811'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1817', 'CVE-2016-1818', 'CVE-2016-1819'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1814'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1813'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1823', 'CVE-2016-1824'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1827', 'CVE-2016-1828', 'CVE-2016-1829', 'CVE-2016-1830', 'CVE-2016-1831'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1832'], 'name': 'libc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1833', 'CVE-2016-1834', 'CVE-2016-1835', 'CVE-2016-1836', 'CVE-2016-1837', 'CVE-2016-1838', 'CVE-2016-1839', 'CVE-2016-1840'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1841'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1842'], 'name': 'MapKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1847'], 'name': 'OpenGL'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1849'], 'name': 'Safari'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1852'], 'name': 'Siri'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1858'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1854', 'CVE-2016-1855', 'CVE-2016-1856', 'CVE-2016-1857'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-2 iOS 9.3.2', 'id': ['CVE-2016-1859'], 'name': 'WebKit Canvas'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1801'], 'name': 'CFNetwork Proxies'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1802'], 'name': 'CommonCrypto'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1803'], 'name': 'CoreCapture'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1807'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1808'], 'name': 'Disk Images'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1811'], 'name': 'ImageIO'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1817', 'CVE-2016-1818'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1814'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1819'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1813'], 'name': 'IOAcceleratorFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1823', 'CVE-2016-1824'], 'name': 'IOHIDFamily'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1827', 'CVE-2016-1828', 'CVE-2016-1829', 'CVE-2016-1830'], 'name': 'Kernel'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1832'], 'name': 'libc'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1833', 'CVE-2016-1834', 'CVE-2016-1836', 'CVE-2016-1837', 'CVE-2016-1838', 'CVE-2016-1839', 'CVE-2016-1840'], 'name': 'libxml2'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1841'], 'name': 'libxslt'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1847'], 'name': 'OpenGL'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1858'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1854', 'CVE-2016-1855', 'CVE-2016-1856', 'CVE-2016-1857'], 'name': 'WebKit'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-16-1 tvOS 9.2.1', 'id': ['CVE-2016-1859'], 'name': 'WebKit Canvas'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-05-03-1 Xcode 7.3.1', 'id': [], 'name': 'Git'}
+{'time': 0, 'level': '', 'influence': 'APPLE-SA-2016-06-20-1 AirPort Base Station Firmware Update 7.6.7 and\t7.7.7', 'id': ['CVE-2015-7029'], 'name': 'AirPort Base Station Firmware'}
